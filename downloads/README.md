@@ -1,10 +1,7 @@
-# Downloads
+# Downloaded list :
 
----
-
-## NO FILE DOWNLOADED YET!
-
-Use the download workflows to add files here.
+- [Firefox Setup 150.0.1](./Firefox%20Setup%20150.0.1)
+- [MicrosoftEdgeBetaEnterpriseX64](./MicrosoftEdgeBetaEnterpriseX64)
 
 ---
 

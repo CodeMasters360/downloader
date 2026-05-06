@@ -5,6 +5,7 @@
 - [MicrosoftEdgeEnterpriseX64](./MicrosoftEdgeEnterpriseX64)
 - [firefox-152.0a1.en-US.win64.installer](./firefox-152.0a1.en-US.win64.installer)
 - [googlechromestandaloneenterprise64](./googlechromestandaloneenterprise64)
+- [v2rayNG_2.0.18-fdroid_universal](./v2rayNG_2.0.18-fdroid_universal)
 
 ---
 

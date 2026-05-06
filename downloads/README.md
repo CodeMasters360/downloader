@@ -3,6 +3,7 @@
 - [Firefox Setup 150.0.1](./Firefox%20Setup%20150.0.1)
 - [MicrosoftEdgeBetaEnterpriseX64](./MicrosoftEdgeBetaEnterpriseX64)
 - [MicrosoftEdgeEnterpriseX64](./MicrosoftEdgeEnterpriseX64)
+- [firefox-152.0a1.en-US.win64.installer](./firefox-152.0a1.en-US.win64.installer)
 - [googlechromestandaloneenterprise64](./googlechromestandaloneenterprise64)
 
 ---

@@ -13,6 +13,8 @@
 - [firefox-152.0a1.en-US.win64.installer](./firefox-152.0a1.en-US.win64.installer)
 - [googlechromestandaloneenterprise64](./googlechromestandaloneenterprise64)
 - [v2rayNG_2.0.18-fdroid_universal](./v2rayNG_2.0.18-fdroid_universal)
+- [zyrln-1.4.0](./zyrln-1.4.0)
+- [zyrln-windows-amd64](./zyrln-windows-amd64)
 
 ---
 
